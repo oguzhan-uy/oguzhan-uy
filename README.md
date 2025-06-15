@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Oguzhan Uymaz
 
-<!--
-**oguzhan-uy/oguzhan-uy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Senior Software Engineering student @ Polytechnique Montréal  
+💻 Passionate about building robust backend systems, automating dev workflows, and solving real-world problems  
+📸 Exploring sports photography as a creative side hustle
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🔍 Resume Analyzer  
+Full-stack app using React, Spring Boot, and Python NLP to optimize resumes for applicant tracking systems (ATS).  
+**Stack**: React · Spring Boot · Python · MongoDB
+
+### 🕵️‍♂️ Spot the Differences Game  
+Multiplayer game with friends, chat, shop, and game creation features. Capstone project with a 6-member team.  
+**Stack**: Angular · Flutter · NestJS · MongoDB · AWS
+
+### 🌐 Portfolio Website  
+Responsive portfolio built with React and TypeScript. Deployed on Vercel with Google Analytics integration.  
+**Stack**: React · TypeScript · Vercel · GitHub · GA
+
+---
+
+## 🧰 Tech Stack
+`Java` · `Spring Boot` · `TypeScript` · `React` · `PostgreSQL` · `MongoDB`  
+`Docker` · `Jenkins` · `AWS` · `GCP` · `Python` · `Flutter` · `Git`
+
+---
+
+## 📫 Reach Me
+- 🌍 [Portfolio Website](https://yourportfolio.com)
+- 💼 [LinkedIn](https://linkedin.com/in/oguzhan-uymaz)
+- 📬 [oguzhanuymaz12@gmail.com](mailto:oguzhanuymaz12@gmail.com)
+
+---
+
+> “Build things that solve real problems.”
