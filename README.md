@@ -8,7 +8,7 @@
 
 ## 🧠 Experience
 
-### 💼 Software Engineering Intern – **UKG** (May 2025 – Present)
+### 💼 Software Engineering Intern – **UKG** (May 2025 – August 2025)
 - Built RESTful APIs with SQL-backed business logic
 - Used Postman for API testing and documentation
 - Customized Splunk dashboards for real-time metrics and alerting  
