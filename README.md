@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Oguzhan Uymaz
 
-🎓 Senior Software Engineering student @ Polytechnique Montréal  
+🎓 Software Engineer graduated from @ Polytechnique Montréal  
 💻 Passionate about backend systems, DevOps, and cloud infrastructure  
 📸 Exploring sports photography as a creative side hustle
 
