@@ -66,7 +66,7 @@ The platform allows professionals to submit, review, and discuss best practices 
 
 ---
 
-Expense Tracker Mobile App
+### Expense Tracker Mobile App
 
 * Mobile application built with Kotlin to track daily expenses and manage personal budgets.
 * Implemented expense creation, categorization, and transaction history.
