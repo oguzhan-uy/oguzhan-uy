@@ -2,7 +2,8 @@
 
 🎓 Software Engineer graduated from @ Polytechnique Montréal  
 💻 Passionate about backend systems, DevOps, and cloud infrastructure  
-📸 Exploring sports photography as a creative side hustle
+📸 Exploring sports photography as a creative side hustle - 
+Instagram page --> [ozivision](https://www.instagram.com/ozivision)
 
 ---
 
