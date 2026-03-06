@@ -11,9 +11,9 @@ Instagram page --> [ozivision](https://www.instagram.com/ozivision)
 
 ### Cloud Developer – **Gurus Solutions** (Feb 2026 – Present)
 
-* Develop NetSuite customizations using JavaScript to automate ERP workflows
-* Build and maintain integrations between NetSuite and external systems using Dell Boomi
-* Manage the lifecycle of features from development through deployment and production support
+* Develop NetSuite customizations using JavaScript to automate ERP workflows.
+* Build and maintain integrations between NetSuite and external systems using Dell Boomi.
+* Manage the lifecycle of features from development through deployment and production support.
 
 **Tech**: NetSuite · JavaScript · Dell Boomi · ERP Integrations · Git
 
@@ -34,7 +34,7 @@ Instagram page --> [ozivision](https://www.instagram.com/ozivision)
 * Built and deployed RESTful APIs with Java and Spring Boot, ensuring integration and unit testing.
 * Enhanced Jenkins pipelines, increasing deployment speed by 30% and optimizing workflows.
 * Automated Jira ticket status updates with a Spring Boot tool integrated into Jenkins, eliminating 100% of manual tracking.
-* Deployed and provisioned DynamoDB tables on AWS using Terraform for infrastructure automation
+* Deployed and provisioned DynamoDB tables on AWS using Terraform for infrastructure automation.
 
 **Tech**: Java · Spring Boot · Docker · Jenkins · DynamoDB · AWS · Terraform
 
@@ -42,8 +42,8 @@ Instagram page --> [ozivision](https://www.instagram.com/ozivision)
 
 ### Lab Teaching Assistant – **Polytechnique Montréal** (Aug 2023 – Dec 2023)
 
-* Guided students on data structures and algorithms
-* Reviewed assignments and provided technical feedback
+* Guided students on data structures and algorithms.
+* Reviewed assignments and provided technical feedback.
 
 **Tech**: Java · GitHub
 
@@ -57,22 +57,26 @@ Milestone software engineering project developed in collaboration with **911 Sol
 
 The platform allows professionals to submit, review, and discuss best practices across multiple domains.
 
-* Designed a layered architecture separating frontend, backend, and database services
-* Implemented REST APIs for practice submission, comments, and moderation workflows
-* Integrated real-time communication and notifications
-* Implemented authentication and role-based access control
+* Designed a layered architecture separating frontend, backend, and database services.
+* Implemented REST APIs for practice submission, comments, and moderation workflows.
+* Integrated real-time communication and notifications.
+* Implemented authentication and role-based access control.
 
 **Stack**: React · TypeScript · Node.js · Express · MongoDB · WebSockets
 
 ---
 
-### Resume Analyzer
+Expense Tracker Mobile App
 
-React, Spring Boot and Python NLP application designed to optimize resumes for applicant tracking systems.
+* Mobile application built with Kotlin to track daily expenses and manage personal budgets.
+* Implemented expense creation, categorization, and transaction history.
+* Designed a simple and responsive mobile interface for quick expense entry.
+* Stored and managed financial records locally on the device.
 
-**Stack**: React · Spring Boot · Python · MongoDB
+**Stack**: Kotlin · Android · Room
 
 ---
+
 
 ### Spot the Differences Game
 
